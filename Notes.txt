@@ -1,0 +1,4 @@
+Steps 
+
+Convert JSX(Javascript) React to TSX (typescript)
+create-react-app redux-app --template typescript
